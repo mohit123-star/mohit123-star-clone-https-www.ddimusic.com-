@@ -1,0 +1,35 @@
+@import url(global.css);
+
+
+/*======(HEADER.HTML  -- start)================================================================*/
+.header{
+    padding: 10px;
+    a{
+        color: white;
+        text-decoration: none;
+    }
+    .btn{
+        background-color: var(--btn-blue-clr) !important;
+        border: 0px;
+        border-radius: 0px;
+        font-size: var(--normal-fs) ;
+        padding: 15px 0px;
+        width: 140px;
+    }
+}
+.bg-linr-grad-blue{
+    background: -webkit-linear-gradient(90deg, #0d314b, #0064ad);
+    color: white;
+}
+
+
+/*======(HEADER.HTML  -- end)================================================================*/
+
+
+
+
+
+
+
+
+
